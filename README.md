@@ -1,2 +1,3 @@
 # Mario-Jump-RNunes
- Jogo em JavaScript
+ Jogo do Mario para saltar obstaculos
+Jogo Feito em HTML CSS e JavaScript
